@@ -1,6 +1,6 @@
 # rlib
 
-Miscellaneous R support functions
+Miscellaneous R support functions for data science and machine learning.
 
 Credit Rudolf Cardinal
 
