@@ -96,7 +96,8 @@ DESIRED_LIBRARIES = c(
     "XLConnect",
     "xlsx",
     "xtermStyle",
-    "zoo"
+    "zoo",
+    "pheatmap"
 )
 
 # First, update packages:
