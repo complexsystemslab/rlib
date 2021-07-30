@@ -51,7 +51,8 @@ cris$fixed_effects_from_lmer(<name of lmer or glmer model>)
   
   `fn_redorder_dendrogram`
   
-
+  `convert_aupr_to_ggplot`
+  
 ## Contact
   
   
