@@ -40,3 +40,18 @@ cris$visualize_fixed_effects_from_lmer(<name of lmer or glmer model>)
   
 cris$fixed_effects_from_lmer(<name of lmer or glmer model>)
   
+  
+## Files
+  
+  `survival_analysis`
+  
+  `rmarkdown`
+  
+  `heatmap`
+  
+  `fn_redorder_dendrogram`
+  
+
+## Contact
+  
+  
