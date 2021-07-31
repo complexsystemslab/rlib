@@ -47,9 +47,9 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
   `rmarkdown_analysis_template.rmd` template R markdown for reproducible analysis
   
-  `heatmap` script for heatmap
+  `heatmap_script.R` script for heatmap
   
-  `fn_redorder_dendrogram` script for reordering labels in heatmaps
+  `fn_redorder_dendrogram.R` script for reordering labels in heatmaps
   
   `convert_aupr_to_ggplot.R` convert AUPR plot to ggplot for pretty plotting
   
