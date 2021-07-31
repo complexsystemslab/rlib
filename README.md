@@ -53,6 +53,8 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
   `convert_aupr_to_ggplot.R` convert AUPR plot to ggplot for pretty plotting
   
+  `lmer_confidence_intervals.R` confidence intervals for lmer linear mixed effects model
+  
   
 ## Contact
   
