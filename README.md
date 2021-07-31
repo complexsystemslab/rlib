@@ -45,7 +45,7 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
   `survival_analysis_example.rmd` script for survival analysis
   
-  `rmarkdown` template r markdown for reproducible analysis
+  `rmarkdown_analysis_template.rmd` template R markdown for reproducible analysis
   
   `heatmap` script for heatmap
   
