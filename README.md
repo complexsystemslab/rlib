@@ -43,7 +43,7 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
 ## Files
   
-  `survival_analysis` script for survival analysis
+  `survival_analysis_example.rmd` script for survival analysis
   
   `rmarkdown` template r markdown for reproducible analysis
   
@@ -51,7 +51,7 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
   `fn_redorder_dendrogram` script for reordering labels in heatmaps
   
-  `convert_aupr_to_ggplot` convert AUPR plot to ggplot for pretty plotting
+  `convert_aupr_to_ggplot.R` convert AUPR plot to ggplot for pretty plotting
   
   
 ## Contact
