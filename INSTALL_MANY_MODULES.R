@@ -97,7 +97,8 @@ DESIRED_LIBRARIES = c(
     "xlsx",
     "xtermStyle",
     "zoo",
-    "pheatmap"
+    "pheatmap",
+    "glmnet"
 )
 
 # First, update packages:
