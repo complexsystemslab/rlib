@@ -34,8 +34,12 @@ library(precrec)
 library(PRROC)
 library(boot)
 library(ggplot2)
-LIBRARY_PREFIX <- "https://egret.psychol.cam.ac.uk/rlib/"
-source(paste0(LIBRARY_PREFIX, "cris_common.R"))
+# LIBRARY_PREFIX <- "https://egret.psychol.cam.ac.uk/rlib/"
+# source(paste0(LIBRARY_PREFIX, "cris_common.R"))
+
+source("https://raw.githubusercontent.com/neelsoumya/rlib/master/cris_common.R")
+
+
 
 ###############################
 # Load synthetic data
