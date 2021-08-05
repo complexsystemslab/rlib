@@ -29,8 +29,10 @@ library(pROC)
 library(precrec)
 library(PRROC)
 library(boot)
-LIBRARY_PREFIX <- "https://egret.psychol.cam.ac.uk/rlib/"
-source(paste0(LIBRARY_PREFIX, "cris_common.R"))
+# LIBRARY_PREFIX <- "https://egret.psychol.cam.ac.uk/rlib/"
+# source(paste0(LIBRARY_PREFIX, "cris_common.R"))
+
+source("https://raw.githubusercontent.com/neelsoumya/rlib/master/cris_common.R")
 
 
 # df_metagene_score_final is a data frame with two columns:
