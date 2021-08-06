@@ -40,6 +40,8 @@ see
 
 `logistic_regression_roc_curve_withCV.R`
 
+https://github.com/neelsoumya/rlib/blob/master/logistic_regression_roc_curve_withCV.R
+
 cris$visualize_fixed_effects_from_lmer(name of lmer or glmer model)
   
 cris$fixed_effects_from_lmer(name of lmer or glmer model)
@@ -48,6 +50,8 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
 ## Files
   
   `logistic_regression_roc_curve_withCV.R` logistic regression model with CV cross validation and plotting of log-odds odds ratios and AUPR and AUC curves
+  
+      * https://github.com/neelsoumya/rlib/blob/master/logistic_regression_roc_curve_withCV.R
   
   `survival_analysis_example.rmd` script for survival analysis
   
