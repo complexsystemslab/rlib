@@ -98,7 +98,8 @@ DESIRED_LIBRARIES = c(
     "xtermStyle",
     "zoo",
     "pheatmap",
-    "glmnet"
+    "glmnet",
+    "randomForest"
 )
 
 # First, update packages:
