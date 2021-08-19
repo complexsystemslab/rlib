@@ -99,7 +99,9 @@ DESIRED_LIBRARIES = c(
     "zoo",
     "pheatmap",
     "glmnet",
-    "randomForest"
+    "randomForest",
+    "bookdown",
+    "caret"
 )
 
 # First, update packages:
