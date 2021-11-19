@@ -9,6 +9,7 @@ Credit Rudolf Cardinal
 
 ## Installation
 
+Install R and R Studio
 
 ```
 
