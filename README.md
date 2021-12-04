@@ -11,6 +11,8 @@ Credit Rudolf Cardinal
 
 Install R and R Studio
 
+and 
+
 ```
 
 source("https://raw.githubusercontent.com/neelsoumya/rlib/master/INSTALL_MANY_MODULES.R")
