@@ -1,0 +1,13 @@
+Package: rlib
+Type: Package
+Title: rlib: Miscellaneous data analysis and plotting functions in R
+Version: 1.0
+Imports: bookdown,
+          ggplot2,
+          metafor,
+          survival,
+          meta,
+          rmarkdown,
+          knitr,
+          tinytex,
+          sqldf
