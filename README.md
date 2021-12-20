@@ -13,19 +13,29 @@ Install R and R Studio
 
 and 
 
-```
+```r
 
 source("https://raw.githubusercontent.com/neelsoumya/rlib/master/INSTALL_MANY_MODULES.R")
 
 ```
 
+For a restricted installation
+
+```r
+
+install.packages('devtools')
+library(devtools)
+
+devtools::install_github('neelsoumya/rlib')
+
+```
 
 
 ## Usage
 
 You can source the latest version from Github. For example, to "source" the miscstat.R file from R, you can do this:
 
-```
+```r
 
 source("https://raw.githubusercontent.com/neelsoumya/rlib/master/miscstat.R")
 
@@ -33,7 +43,7 @@ source("https://raw.githubusercontent.com/neelsoumya/rlib/master/miscstat.R")
 
 ## Example
 
-```
+```r
 
 source("https://raw.githubusercontent.com/neelsoumya/rlib/master/cris_common.R")
 
