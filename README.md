@@ -5,7 +5,7 @@
 
 Miscellaneous R support functions for data science and machine learning.
 
-Credit Rudolf Cardinal
+Credit Rudolf N. Cardinal
 
 ## Installation
 
@@ -69,6 +69,11 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   `lmer_confidence_intervals.R` confidence intervals for lmer linear mixed effects model
   
   
+## Acknowledgements
+
+Rudolf N. Cardinal
+
+
 ## Contact
   
   
