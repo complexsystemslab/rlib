@@ -20,4 +20,5 @@ Imports: bookdown,
           reshape,
           reshape2,
           glmnet,
-          shiny
+          shiny,
+          survminer
