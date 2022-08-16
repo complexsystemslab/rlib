@@ -70,6 +70,10 @@ cris$fixed_effects_from_lmer(name of lmer or glmer model)
   
   `rmarkdown_analysis_template.rmd` template R markdown for reproducible analysis
   
+  also see
+  
+  https://github.com/neelsoumya/teaching_reproducible_science_R/blob/main/rmarkdown.rmd
+  
   `heatmap_script.R` script for heatmap
   
   `fn_redorder_dendrogram.R` script for reordering labels in heatmaps
